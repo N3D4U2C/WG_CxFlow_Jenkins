@@ -104,7 +104,7 @@ namespace OWASP.WebGoat.NET
 			}
 			return output;
 		}
-		/*
+		
 		private DataTable DoQuery (string SQL)
 		{			
 			string GoatDBFile = "URI=file:" + HttpContext.Current.Server.MapPath ("~/App_Data/") + "goatdb.sqlite";
@@ -117,7 +117,7 @@ namespace OWASP.WebGoat.NET
 			cn.Close ();
 			return dt;
 		}
-		*/
+		
 		
 		
 		//this SQLite provider does not support datatables, so dumping query contents into a string
