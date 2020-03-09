@@ -109,7 +109,7 @@ namespace OWASP.WebGoat.NET
 	        	Console.WriteLine(ex.Message);
 	            return false;
 	        }
-	        return true;
+	        return false;
     	}
         
     }
