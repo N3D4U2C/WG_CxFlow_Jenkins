@@ -18,6 +18,9 @@
         mysql> source load_webgoatcoins.sql; 
 
     Exit from mysql:
+    
+    
+    
 
        
     
