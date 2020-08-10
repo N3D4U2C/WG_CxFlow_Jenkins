@@ -16,6 +16,3 @@
     Load the table contents:
 
         mysql> source load_webgoatcoins.sql; 
-
-    Exit from mysql:
-     Exit from mysql:
