@@ -9,9 +9,9 @@ workflows:
     jobs:
       - cxflow/results:
           project: "WG_CxFlow_Jenkins"
-          team: "\\CxServer\\SP\\Checkmarx\\Users"    
+          team: "\\CxServer\\SP\\Checkmarx"    
       - cxflow/scan:
-          team: "\\CxServer\\SP\\Checkmarx\\Users"
+          team: "\\CxServer\\SP\\Checkmarx"
           preset: "High and Medium"
           report-file: vulns.json
           filters:
