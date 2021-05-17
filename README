@@ -16,5 +16,5 @@
     Load the table contents:
 
         mysql> source load_webgoatcoins.sql; 
-	#TEST
+
 
