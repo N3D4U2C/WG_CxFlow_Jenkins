@@ -17,4 +17,4 @@
 
         mysql> source load_webgoatcoins.sql;
 	
-	test
+	testing
