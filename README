@@ -16,5 +16,4 @@
     Load the table contents:
 
         mysql> source load_webgoatcoins.sql;
-	
-	testing
+	TESTING CXFLOW
